@@ -1,6 +1,6 @@
 # BinaryCode, Convert your message to binary representation
 
-text = raw_input("Enter the text message:\n")
+text = raw_input("Enter your text message:\n")
 
 def to_binary(msg):
 	
